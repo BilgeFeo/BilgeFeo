@@ -17,28 +17,40 @@
 
 ### Tech Stack
 
+#### Language & Core Frameworks
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
-      <br />Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring" />
-      <br />Spring Boot
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-      <br />Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" />
-      <br />Kubernetes
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
-      <br />Ubuntu
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /><br />Java</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring" /><br />Spring Boot</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=hibernate" width="40" height="40" alt="Hibernate" /><br />Hibernate</td>
+  </tr>
+</table>
+
+#### Cloud Native & DevOps
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /><br />Docker</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" /><br />Kubernetes</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=istio" width="40" height="40" alt="Istio" /><br />Istio</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40" alt="Prometheus" /><br />Prometheus</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Grafana" /><br />Grafana</td>
+  </tr>
+</table>
+
+#### Security & API Integration
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=keycloak" width="40" height="40" alt="Keycloak" /><br />Keycloak</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=svg" width="40" height="40" alt="JWT" /><br />JWT / OAuth2</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=swagger" width="40" height="40" alt="Swagger" /><br />Swagger</td>
+  </tr>
+</table>
+
+#### Environment & Automation
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" /><br />Ubuntu</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br />Git</td>
   </tr>
 </table>
 
@@ -68,8 +80,8 @@
 ---
 
 ### Contact
-* **LinkedIn:** [linkedin.com/in/alisametarmagan](https://linkedin.com)
-* **Email:** sametarmagan.dev@gmail.com
+* **LinkedIn:** [linkedin.com/in/alisametarmagan](https://www.linkedin.com/in/ali-samet-arma%C4%9Fan-7944812a2/)
+* **Email:** ali.samet.ar@gmail.com
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
