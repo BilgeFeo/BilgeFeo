@@ -126,7 +126,7 @@
 ### Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeFeo&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=8b949e&langs_count=8" alt="Most Used Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeFeo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=8b949e&langs_count=8" alt="Most Used Languages" width="50%" />
 </p>
 
 ---
