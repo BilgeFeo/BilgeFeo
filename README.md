@@ -1,4 +1,4 @@
-<h2 align="center">Ali Samet Armağan</h2>
+<h1 align="center">Hi there 👋 I'm Ali Samet Armağan</h1>
 <p align="center"><i>Backend Developer & DevOps Enthusiast — crafting scalable systems, one microservice at a time.</i></p>
 
 <p align="center">
