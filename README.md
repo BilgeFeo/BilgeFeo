@@ -105,8 +105,7 @@
 ### Metrics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BilgeFeo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=8b949e" alt="GitHub Stats" width="48%" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeFeo&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=BilgeFeo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=8b949e" width="48%" />
 </p>
 
 <p align="center">
