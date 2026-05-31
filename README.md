@@ -104,9 +104,6 @@
 
 ### Metrics & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BilgeFeo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=8b949e" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeFeo&theme=tokyonight&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FF6D00&currStreakLabel=36BCF7&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="97%" />
