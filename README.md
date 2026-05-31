@@ -123,14 +123,6 @@
 
 ---
 
-### Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgeFeo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=8b949e&langs_count=8" alt="Most Used Languages" width="50%" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=80&section=footer" width="100%" />
 </p>
