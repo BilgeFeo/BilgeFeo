@@ -10,7 +10,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/BilgeFeo">
+  <a href="https://github.com/aalisamet">
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
   </a>
 </p>
@@ -20,9 +20,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BilgeFeo&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aalisamet&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/BilgeFeo?style=for-the-badge&color=36BCF7&labelColor=1a1b27&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/aalisamet?style=for-the-badge&color=36BCF7&labelColor=1a1b27&label=Followers" alt="Followers" />
 </p>
 
 ---
@@ -106,7 +106,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilgeFeo&theme=tokyonight&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FF6D00&currStreakLabel=36BCF7&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aalisamet&theme=tokyonight&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FF6D00&currStreakLabel=36BCF7&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
@@ -114,7 +114,7 @@
 ### Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BilgeFeo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FF6D00&area=true&area_color=36BCF7" alt="Contribution Graph" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aalisamet&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FF6D00&area=true&area_color=36BCF7" alt="Contribution Graph" width="97%" />
 </p>
 
 ---
